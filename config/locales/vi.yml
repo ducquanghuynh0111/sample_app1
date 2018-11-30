@@ -1,0 +1,9 @@
+vi:
+  models:
+    book:
+  books:
+    es.rb
+    en.rb
+  users:
+    es.rb
+    en.rb
